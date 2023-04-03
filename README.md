@@ -172,6 +172,7 @@ We also added a "Confirm" or "Cancel" option when editing the profile, this can 
    ## Created a reply functionality
     
    <img align="left" src="/reply.png" alt="My Image">
+   <img align="left" src="/reply2.png" alt="My Image">
 
 We added a reply functionality with the prompt of confirming wheather the user wants to post or not.
 
