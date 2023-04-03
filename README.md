@@ -78,7 +78,7 @@ The Discussion Details page displays a discussion post in more detail. The user 
 
 <img align="left" src="/chat.png" alt="My Image">
 <img align="left" src="/chat2.png" alt="My Image">
-<img align="left" src="/chhat3.png" alt="My Image">
+<img align="left" src="/chat3.png" alt="My Image">
 
 
 The Chat page displays all the chats that a user has had on the platform. The user can click on a name or create a chat to chat with another user individually. The user can also create a group chat with multiple users.
