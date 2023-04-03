@@ -95,7 +95,7 @@ The Profile page displays the user's information, such as their name, email, and
 
 ## EDIT PROFILE PAGE
 
-<img align="left" src="/profile2.png" alt="My Image">
+<img align="left" src="/editprofile.png" alt="My Image">
 
 The Edit Profile page is where a user can change their personal information, such as their name, email, and profile picture. The user can also change their password on this page.
 
@@ -163,7 +163,7 @@ We also removed the calendar in the Profile page as it seemed too clustered.
 
    ## ADD "CONFIRM" OR "CANCEL" OPTION WHEN EDITING PROFILE
     
-    
+   <img align="left" src="/editprofile.png" alt="My Image">
 
 We also added a "Confirm" or "Cancel" option when editing the profile, this can give users a chance to go back and cancel their changes.
     
