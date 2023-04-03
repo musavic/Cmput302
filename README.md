@@ -18,7 +18,7 @@ The Add New Course page is where a user can search for a specific course by ente
 
 ## COURSE PAGE
 
-<img align="left" src="/coursepage.png" alt="My Image">
+<img align="left" src="/coursepage.png" alt="My Image" width="139" height="300">
 
 The Course page displays the selected course and its calendar. The user can view all the deliverables, students, and discussion forums related to the course. The calendar shows all the important dates for the course, such as assignments and exams.
 
@@ -26,7 +26,7 @@ The Course page displays the selected course and its calendar. The user can view
 
 ## CALENDAR PAGE
 
-<img align="left" src="/calendar.png" alt="My Image">
+<img align="left" src="/calendar.png" alt="My Image" width="139" height="300">
 
 The Calendar page displays all the upcoming events for the selected day. The user can view all the events for a specific day and click on an event to get more details.
 
@@ -95,7 +95,7 @@ The Profile page displays the user's information, such as their name, email, and
 
 ## EDIT PROFILE PAGE
 
-<img align="left" src="/editprofile.png" alt="My Image">
+<img align="left" src="/editprofile.png" alt="My Image" width="139" height="300">
 
 The Edit Profile page is where a user can change their personal information, such as their name, email, and profile picture. The user can also change their password on this page.
 
