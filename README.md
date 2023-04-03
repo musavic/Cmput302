@@ -10,7 +10,7 @@ The home page is the first page that a user will see when they log in to the pla
 
 ## ADD NEW COURSE PAGE
 
-<img align="left" src="/addnewcoursepage.png" alt="My Image">
+<img align="left" src="/addnewcoursepage.png" alt="My Image" width="139" height="300">
 
 The Add New Course page is where a user can search for a specific course by entering the institution number and course number. Once the user finds the course they are looking for, they can add it to their list of enrolled courses.
 
