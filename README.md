@@ -60,7 +60,7 @@ The Add Discussion page is where a user can write a discussion post for a specif
 
 ## DISCUSSIONS PAGE
 
-<img align="left" src="/dicussionpage.png" alt="My Image">
+<img align="left" src="/discussionpage.png" alt="My Image">
 
 The Discussions page is a list of all the discussion posts that have been created for a specific course. The user can search for a specific post and view its details.
 
@@ -112,7 +112,7 @@ The Deliverables page displays all the deliverables for a specific course, such 
 ## STUDENTS PAGE
 
 <img align="left" src="/students1.png" alt="My Image">
-<img align="left" src="/studetns2.png" alt="My Image">
+<img align="left" src="/students2.png" alt="My Image">
 
 The Students page displays all the students who are enrolled in a specific course. The user can view each student's name, email, and profile picture.
 
