@@ -40,7 +40,7 @@ The Compare Performance page is where a user can compare their marks and grades 
 ADD DISCUSSION PAGE
 
 ![alttext](addDiscussion1.png)
-![alttext](addDicussion2.png)
+![alttext](addDiscussion2.png)
 
 The Add Discussion page is where a user can write a discussion post for a specific class and post it in the forum. The user can add a title, body, and attachments to their post.
 
@@ -105,20 +105,20 @@ SUGGESTIONS:
 
     ENABLE PROMPT AFTER ADDING A DISCUSSION FORUM
     
-    ![alttext](addDiscussion2.png)
+   ![alttext](addDiscussion2.png)
 
 We enabled a prompt after adding a discussion forum to give users a second chance to verify their post. This can prevent users from accidentally posting incomplete or incorrect information.
 
     ADD SETTINGS PAGE
     
-    ![alttext](setting.png)
+   ![alttext](setting.png)
 
 We added a Settings page to give users the option to change their accessibility. This can help users with disabilities
 
     REMOVE CALENDAR FROM PROFILE PAGE
     
-    ![alttext](profile.png)
-    ![alttext](profile2.png)
+   ![alttext](profile.png)
+   ![alttext](profile2.png)
 
 We also removed the calendar in the Profile page as it seemed too clustered.
 
@@ -136,6 +136,6 @@ We added clear labels for our deliverable page and also added an upload button.
 
     ADD SEARCH BAR TO STUDENTS PAGE
     
-    ![alttext](search.png)
+   ![alttext](search.png)
 
 We added a search bar when viewing students, this can help users search for specific students.
