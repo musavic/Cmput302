@@ -1,13 +1,13 @@
 # Cmput302
 
-HOME PAGE
+## HOME PAGE
 
 <img align="left" src="/Home.png" alt="My Image">
 
 The home page is the first page that a user will see when they log in to the platform. It displays all the courses that the user is enrolled in and any upcoming deliverables. The user can click on a course to be directed to the course page. <br>
 
 
-ADD NEW COURSE PAGE
+## ADD NEW COURSE PAGE
 
 <img align="left" src="/addnewcoursepage.png" alt="My Image">
 
