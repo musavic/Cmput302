@@ -95,7 +95,7 @@ The Profile page displays the user's information, such as their name, email, and
 
 ## EDIT PROFILE PAGE
 
-<img align="left" src="/editprofile.png" alt="My Image" width="139" height="300">
+<img align="left" src="/editprofile.png" alt="My Image">
 
 The Edit Profile page is where a user can change their personal information, such as their name, email, and profile picture. The user can also change their password on this page.
 
