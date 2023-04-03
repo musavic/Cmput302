@@ -179,6 +179,6 @@ We added clear labels for our deliverable page and also added an upload button.
     
    ## ADD SEARCH BAR TO STUDENTS PAGE
     
-   <img align="left" src="/search.png" alt="My Image">
+   <img align="left" src="/search.png" alt="My Image" width="139" height="300">
 
 We added a search bar when viewing students, this can help users search for specific students.
