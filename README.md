@@ -7,6 +7,7 @@ HOME PAGE
 The home page is the first page that a user will see when they log in to the platform. It displays all the courses that the user is enrolled in and any upcoming deliverables. The user can click on a course to be directed to the course page.
 
 ADD NEW COURSE PAGE
+![alttext](addnewcoursepage.png)
 
 The Add New Course page is where a user can search for a specific course by entering the institution number and course number. Once the user finds the course they are looking for, they can add it to their list of enrolled courses.
 
