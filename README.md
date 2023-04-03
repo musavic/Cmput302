@@ -169,11 +169,11 @@ We also added a "Confirm" or "Cancel" option when editing the profile, this can 
     
    <br clear="left"/>
     
-   ## IMPROVE DELIVERABLES PAGE
+   ## Created a reply functionality
     
-    
+   <img align="left" src="/reply.png" alt="My Image">
 
-We added clear labels for our deliverable page and also added an upload button.
+We added a reply functionality with the prompt of confirming wheather the user wants to post or not.
 
    <br clear="left"/>
     
