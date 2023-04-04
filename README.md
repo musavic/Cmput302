@@ -1,3 +1,5 @@
+# CMPUT 302
+
 ## SIGN UP PAGE
 
 <img align="left" src="/signup.png" alt="My Image">
