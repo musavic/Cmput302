@@ -1,4 +1,18 @@
-# Cmput302
+## SIGN UP PAGE
+
+<img align="left" src="/signup.png" alt="My Image">
+
+The Sign Up page is where a new user can create an account on the platform. The user will need to enter their name, email, and create a password.
+
+<br clear="left"/>
+
+## SIGN IN PAGE
+
+<img align="left" src="/signin.png" alt="My Image">
+
+The Sign In page is where a user can enter their credentials and sign in to their account. The user will need to enter their email and password.
+
+<br clear="left"/>
 
 ## HOME PAGE
 
@@ -115,22 +129,6 @@ The Deliverables page displays all the deliverables for a specific course, such 
 <img align="left" src="/students2.png" alt="My Image">
 
 The Students page displays all the students who are enrolled in a specific course. The user can view each student's name, email, and profile picture.
-
-<br clear="left"/>
-
-## SIGN UP PAGE
-
-<img align="left" src="/signup.png" alt="My Image">
-
-The Sign Up page is where a new user can create an account on the platform. The user will need to enter their name, email, and create a password.
-
-<br clear="left"/>
-
-## SIGN IN PAGE
-
-<img align="left" src="/signin.png" alt="My Image">
-
-The Sign In page is where a user can enter their credentials and sign in to their account. The user will need to enter their email and password.
 
 <br clear="left"/>
 
