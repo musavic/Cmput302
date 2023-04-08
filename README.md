@@ -32,6 +32,7 @@ Welcome to CRTracker, a one-stop application for students to stay updated with t
 #### ADD NEW COURSE PAGE
 
 <img align="left" src="/addnewcoursepage.png" alt="My Image" width="139" height="300">
+<img align="left" src="/searchcourse.png" alt="My Image" width="139" height="300">
 
 >The Add New Course page is where a user can search for a specific course by entering the institution number and course number. Once the user finds the course they are looking for, they can add it to their list of enrolled courses.
 
@@ -166,7 +167,7 @@ Some of the study subjects suggested that this application could possibly be use
    <img align="left" src="/profile.png" alt="My Image">
    <img align="left" src="/profile2.png" alt="My Image">
 
-Initially, the calendar page was displayed on the home page of the application. Many suggested that this cramped up the home page. For this, we decided to move the calendar out of the home page to reduce cluster and only display it for an individual course, when the user clicks on one of the courses they are enrolled in.
+Initially, the calendar page was displayed on the profile page of the application. Many suggested that this cramped up the profile page. For this, we decided to move the calendar out of the profile page to reduce cluster and only display it for an individual course, when the user clicks on one of the courses they are enrolled in.
 
    <br clear="left"/>
 
